@@ -1,4 +1,4 @@
-# UrbanForma Minecraft Mod v1.02 v1.02
+# UrbanForma Minecraft Mod v1.02
 
 ## 项目概述
 UrbanForma是一个Minecraft模组，专注于城市建筑和现代都市元素，特别是道路系统和城市基础设施。
