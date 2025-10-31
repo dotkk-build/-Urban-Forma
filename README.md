@@ -24,14 +24,8 @@ UrbanForma/
 
 ### 技术特性
 - 使用DirectionalRoadBlock实现方向性方块
-- 支持创意标签分类（都市构方道路）
 - 完整的中文本地化支持
 - 基于Minecraft Forge 1.20.1开发
-
-## 贴图系统
-
-### 贴图文件夹位置
-`d:\UrbanForma\assets\urbanforma\textures\`
 
 ### 贴图文件夹结构
 ```
@@ -42,14 +36,6 @@ textures/
 └── gui/                   # 界面贴图
 ```
 
-## 开发说明
-
-### 构建命令
-```bash
-cd d:\UrbanForma
-gradle build
-```
-
 ### 开发环境要求
 - Java 17+
 - Minecraft Forge 1.20.1
@@ -57,19 +43,6 @@ gradle build
 
 ### 代码结构
 - `ModBlocks.java` - 方块注册管理
-- `ModCreativeTabs.java` - 创意标签管理
+- `ModCreativeTabs.java` - 创造模式标签管理
 - `DirectionalRoadBlock.java` - 方向性道路方块实现
 - `zh_cn.json` - 中文本地化文件
-
-## 注意事项
-- 贴图文件应为PNG格式
-- 推荐贴图尺寸为16x16、32x32或64x64像素
-- 确保贴图文件命名规范，与注册名称一致
-- 所有道路方块都支持方向性放置
-- 模型文件使用JSON格式，遵循Minecraft标准
-
-## 未来计划
-- 添加更多城市建筑方块
-- 实现交通信号系统
-- 添加车辆和行人实体
-- 扩展道路类型和材质
