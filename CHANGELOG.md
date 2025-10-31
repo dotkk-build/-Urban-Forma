@@ -4,6 +4,36 @@ This document records the version update history of the UrbanForma mod.
 
 ---
 
+## v1.03 - 2025-10-31
+**White Midline High Road Blocks Enhancement**
+
+### 🆕 New Content
+- **White Midline High Road Blocks**: Added 7 directional high road blocks with white midline (r_wl_h1 to r_wl_h7)
+- **Directional Functionality**: Implemented DirectionalHeightRoadBlock for proper directional placement
+- **Texture Optimization**: Updated top face textures to use r_gray_l1.png for consistent appearance
+
+### 🔧 Technical Improvements
+- Fixed blockstates configuration for directional facing
+- Enhanced texture mapping with proper variable references
+- Improved block registration consistency in ModBlocks.java
+
+---
+
+## v1.03 - 2025-10-31
+**White Midline High Road Blocks Enhancement**
+
+### 🆕 New Content
+- **White Midline High Road Blocks**: Added 7 directional high road blocks with white midline (r_wl_h1 to r_wl_h7)
+- **Directional Functionality**: Implemented DirectionalHeightRoadBlock for proper directional placement
+- **Texture Optimization**: Updated top face textures to use r_gray_l1.png for consistent appearance
+
+### 🔧 Technical Improvements
+- Fixed blockstates configuration for directional facing
+- Enhanced texture mapping with proper variable references
+- Improved block registration consistency in ModBlocks.java
+
+---
+
 ## v1.02 - 2025-10-31
 **Road System Enhancement**
 
@@ -21,6 +51,36 @@ This document records the version update history of the UrbanForma mod.
 - Updated creative tabs with road block categorization
 - Complete Chinese localization for all road blocks
 - Standardized texture mapping system
+
+---
+
+## v1.03 - 2025-10-31
+**White Midline High Road Blocks Enhancement**
+
+### 🆕 New Content
+- **White Midline High Road Blocks**: Added 7 directional high road blocks with white midline (r_wl_h1 to r_wl_h7)
+- **Directional Functionality**: Implemented DirectionalHeightRoadBlock for proper directional placement
+- **Texture Optimization**: Updated top face textures to use r_gray_l1.png for consistent appearance
+
+### 🔧 Technical Improvements
+- Fixed blockstates configuration for directional facing
+- Enhanced texture mapping with proper variable references
+- Improved block registration consistency in ModBlocks.java
+
+---
+
+## v1.03 - 2025-10-31
+**White Midline High Road Blocks Enhancement**
+
+### 🆕 New Content
+- **White Midline High Road Blocks**: Added 7 directional high road blocks with white midline (r_wl_h1 to r_wl_h7)
+- **Directional Functionality**: Implemented DirectionalHeightRoadBlock for proper directional placement
+- **Texture Optimization**: Updated top face textures to use r_gray_l1.png for consistent appearance
+
+### 🔧 Technical Improvements
+- Fixed blockstates configuration for directional facing
+- Enhanced texture mapping with proper variable references
+- Improved block registration consistency in ModBlocks.java
 
 ---
 
