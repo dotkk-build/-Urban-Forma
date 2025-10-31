@@ -109,5 +109,11 @@
   "block.urbanforma.r_wl27": "道路白45度弯3",
   "block.urbanforma.r_wl28": "道路白45度弯3反向",
   "block.urbanforma.r_wl29": "道路白45度弯4",
-  "block.urbanforma.r_wl30": "道路白45度弯4反向"
+  "block.urbanforma.r_wl30": "道路白45度弯4反向",
+  
+  "block.urbanforma.r_wl31": "道路白大弯1",
+  "block.urbanforma.r_wl32": "道路白大弯1反向",
+  "block.urbanforma.r_wl33": "道路白大弯2",
+  "block.urbanforma.r_wl34": "道路白大弯2反向",
+  "block.urbanforma.r_wl35": "道路白大弯3"
 }

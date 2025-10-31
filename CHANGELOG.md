@@ -4,6 +4,46 @@ This document records the version update history of the UrbanForma mod.
 
 ---
 
+## v1.02 - 2025-10-31
+**Road System Enhancement**
+
+### 🆕 New Content
+- **Road Block System**: Added 35 road blocks with white markings (r_wl1 to r_wl35)
+- **Directional Road Blocks**: Implemented DirectionalRoadBlock for directional placement
+- **Road Marking Types**:
+  - Center lines, 45-degree lines, zebra crossings
+  - Corner lines, T-lines, cross lines
+  - Small, medium, and large curves with reverse variants
+  - 45-degree curves with reverse variants
+
+### 🔧 Technical Improvements
+- Enhanced ModBlocks.java with comprehensive road block registry
+- Updated creative tabs with road block categorization
+- Complete Chinese localization for all road blocks
+- Standardized texture mapping system
+
+---
+
+## v1.02 - 2025-10-31
+**Road System Enhancement**
+
+### 🆕 New Content
+- **Road Block System**: Added 35 road blocks with white markings (r_wl1 to r_wl35)
+- **Directional Road Blocks**: Implemented DirectionalRoadBlock for directional placement
+- **Road Marking Types**:
+  - Center lines, 45-degree lines, zebra crossings
+  - Corner lines, T-lines, cross lines
+  - Small, medium, and large curves with reverse variants
+  - 45-degree curves with reverse variants
+
+### 🔧 Technical Improvements
+- Enhanced ModBlocks.java with comprehensive road block registry
+- Updated creative tabs with road block categorization
+- Complete Chinese localization for all road blocks
+- Standardized texture mapping system
+
+---
+
 ## v1.0.0 - 2025-10-29
 **Initial Release**
 

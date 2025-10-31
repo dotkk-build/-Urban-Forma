@@ -180,6 +180,13 @@ public class ModBlocks {
     public static final RegistryObject<Block> ROAD_A_WHITE_45_DEGREE_CURVE_4 = registerBlock("r_wl29", () -> new com.urbanforma.block.DirectionalRoadBlock(BASIC_PROPERTIES));
     public static final RegistryObject<Block> ROAD_A_WHITE_45_DEGREE_CURVE_4_REVERSE = registerBlock("r_wl30", () -> new com.urbanforma.block.DirectionalRoadBlock(BASIC_PROPERTIES));
     
+    // 道路白大弯系列
+    public static final RegistryObject<Block> ROAD_A_WHITE_LARGE_CURVE_1 = registerBlock("r_wl31", () -> new com.urbanforma.block.DirectionalRoadBlock(BASIC_PROPERTIES));
+    public static final RegistryObject<Block> ROAD_A_WHITE_LARGE_CURVE_1_REVERSE = registerBlock("r_wl32", () -> new com.urbanforma.block.DirectionalRoadBlock(BASIC_PROPERTIES));
+    public static final RegistryObject<Block> ROAD_A_WHITE_LARGE_CURVE_2 = registerBlock("r_wl33", () -> new com.urbanforma.block.DirectionalRoadBlock(BASIC_PROPERTIES));
+    public static final RegistryObject<Block> ROAD_A_WHITE_LARGE_CURVE_2_REVERSE = registerBlock("r_wl34", () -> new com.urbanforma.block.DirectionalRoadBlock(BASIC_PROPERTIES));
+    public static final RegistryObject<Block> ROAD_A_WHITE_LARGE_CURVE_3 = registerBlock("r_wl35", () -> new com.urbanforma.block.DirectionalRoadBlock(BASIC_PROPERTIES));
+    
     public static void register(IEventBus eventBus) {
         BLOCKS.register(eventBus);
         ITEMS.register(eventBus);

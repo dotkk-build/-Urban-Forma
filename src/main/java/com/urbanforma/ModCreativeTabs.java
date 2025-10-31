@@ -144,6 +144,20 @@ public class ModCreativeTabs {
                 output.accept(ModBlocks.ROAD_A_WHITE_45_DEGREE_CURVE_3_REVERSE.get());
                 output.accept(ModBlocks.ROAD_A_WHITE_45_DEGREE_CURVE_4.get());
                 output.accept(ModBlocks.ROAD_A_WHITE_45_DEGREE_CURVE_4_REVERSE.get());
+                
+                // 道路白大弯系列
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_1.get());
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_1_REVERSE.get());
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_2.get());
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_2_REVERSE.get());
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_3.get());
+                
+                // 道路白大弯系列
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_1.get());
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_1_REVERSE.get());
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_2.get());
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_2_REVERSE.get());
+                output.accept(ModBlocks.ROAD_A_WHITE_LARGE_CURVE_3.get());
             })
             .build());
 
