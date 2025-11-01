@@ -1,4 +1,4 @@
-# UrbanForma Minecraft Mod v1.03
+# UrbanForma Minecraft Mod v1.04
 
 ## 项目概述
 - UrbanForma是一个Minecraft模组，专注于城市建筑和现代都市元素，特别是道路系统和城市基础设施。后续将会带来更多系列，如摩天楼系列方块及机场系列方块等......
@@ -45,7 +45,7 @@ textures/
 - `DirectionalRoadBlock.java` - 方向性道路方块实现
 - `zh_cn.json` - 中文本地化文件
 
-### 下个版本更新预告（1.04版本）
+### 更新内容（1.04版本）
 - 优化白线系列道路方块
 - 优化方块的模型名，进一步压缩模组大小
 - 将加入黄线系列道路方块（部分）
