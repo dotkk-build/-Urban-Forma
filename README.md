@@ -23,11 +23,6 @@ UrbanForma/
 └── README.md              # 项目说明文档
 ```
 
-### 技术特性
-- 使用DirectionalRoadBlock实现方向性方块
-- 完整的中文本地化支持
-- 基于Minecraft Forge 1.20.1开发
-
 ### 贴图文件夹结构
 ```
 textures/
